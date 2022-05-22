@@ -1,0 +1,9 @@
+Avi|Linear Algebra,84|Complexity Theory,99|Infi 1,88|Discrete Mathematics,73|Data Structures,100
+Yarden|Discrete Mathematics,87
+Sivan|Advanced Topics in C,100|Algorithms,84
+Tal|Infi 2,97
+Erez|Digital Systems,76
+Shalom|Algorithms,100|Complex Functions,80|Data Structures,87
+Ronit|Data Structures,99
+Yehuda|Complexity Theory,88
+Vardit|Complex Functions,76
